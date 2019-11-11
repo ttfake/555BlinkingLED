@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "555BlinkingLED")(type "KiCad")(uri "${KIPRJMOD}/555BlinkingLED.pretty")(options "")(descr ""))
+  (lib (name "silksymbol")(type "KiCad")(uri "${KIPRJMOD}/Gerber/silksymbol.pretty")(options "")(descr ""))
+)
